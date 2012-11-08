@@ -10,7 +10,7 @@ development:
   database: test
   pool: 5
   username: root
-  password: MYSQL
+  password:MYSQL
   socket: /var/run/mysqld/mysqld.sock 
 
 # Warning: The database defined as "test" will be erased and
@@ -33,5 +33,5 @@ production:
   database: test
   pool: 5
   username: root
-  password: MYSQL
+  password:MYSQL
   socket: /var/run/mysqld/mysqld.sock
